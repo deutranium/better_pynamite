@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-VERSION = "0.1.3"
+VERSION = "0.1.4"
 DESCRIPTION = "Import and create chaos"
 
 
@@ -22,5 +22,5 @@ setup(
     install_requires=[],
     keywords=["python", "chaos"],
     classifiers=[],
-    license="MIT",
+    license="Apache License 2.0",
 )
