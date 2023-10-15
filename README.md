@@ -6,8 +6,6 @@ Added `better_` because the name `pynamite` was already taken.
 
 ## Setup and installation
 
-[TODO: setup pip]
-
 1. Simply install with
 
 ```
