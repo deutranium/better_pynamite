@@ -11,6 +11,7 @@ setup(
     author_email="kshitijaa.jaglan@research.iiit.ac.in",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
+    url="https://github.com/deutranium/better_pynamite",
     packages=find_packages(),
     install_requires=[],
     keywords=["python", "chaos"],
