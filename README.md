@@ -9,13 +9,13 @@ Added `better_` because the name `pynamite` was already taken.
 1. Simply install with
 
 ```
-pip install better_pynamite
+pip install better-pynamite
 ```
 
 2. Import in victim script
 
 ```
-import better_pynamite
+import better-pynamite
 ```
 
 3. Let the chaos unfold
